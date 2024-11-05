@@ -1,6 +1,5 @@
 {
   "name": "haedev/howler",
-  "version": "2.2.1-hae",
   "description": "Javascript audio library for the modern web.",
   "homepage": "https://howlerjs.com",
   "keywords": [
